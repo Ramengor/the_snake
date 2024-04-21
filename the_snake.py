@@ -1,7 +1,8 @@
 from random import choice, randint
+
 import pygame as pg
 
-# Инициализация PyGame:
+# Инициализация PyGame:flake8
 pg.init()
 
 # Константы для размеров поля и сетки:
